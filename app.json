@@ -19,26 +19,26 @@
         "APP_NAME": {
             "description": "Heroku App Name",
             "value": "",
-            "required": true
+            "required": false
         },
         "BOT_TOKEN": {
             "description": "Your bot token, as a string.",
-            "value": "",
+            "value": "6630556790:AAFGarOavZLEzV4hhVMZIfYrDv4VJ-LfJL8",
             "required": true
         },
         "API_KEY": {
             "description": "Your Heroku Account API Key from https://dashboard.heroku.com/account ",
             "value": "",
-            "required": true
+            "required": false
         },
         "API_ID": {
             "description": "Get from https://my.telegram.org",
-            "value": "",
+            "value": "21543397",
             "required": true
         },
         "API_HASH": {
             "description": "Get from https://my.telegram.org",
-            "value": "",
+            "value": "87579ffc7be4d3ababdc07cbbc2e8dc4",
             "required": true
         }
     }
